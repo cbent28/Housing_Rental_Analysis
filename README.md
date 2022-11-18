@@ -1,7 +1,6 @@
 # Challenge 6 - Housing Rental Analysis for San Francisco
 
-![alt text](6_4_challenge_image.png)
-
+![image](https://user-images.githubusercontent.com/104800728/202768290-19f4946c-48da-4327-b54c-fcee839012f4.png)
 ## Background
 
 **Proptech**, the application of technology to real-estate markets, is an innovative domain in the fintech industry. Assume that you’re an analyst at a proptech company that wants to offer an instant, one-click service for people to buy properties and then rent them. The company wants to have a trial of this offering in the San Francisco real-estate market. If the service proves popular, they can then expand to other markets.
@@ -57,7 +56,7 @@ For this part of the assignment, use numerical and visual aggregation to calcula
 
 4. Note that your resulting plot should appear similar to the following image:
 
-![alt txt](6_4_zoomed_housing_units_by_year.png)
+![image](https://user-images.githubusercontent.com/104800728/202768354-18804ffb-c031-4e24-a024-cd5e39b6d866.png)
 
 Answer the following question:
 
@@ -78,7 +77,7 @@ For this part of the assignment, use numerical and visual aggregation to calcula
 
 5. Note that your resulting plot should appear similar to the following image:
 
-![alt text](6_4_avg_sale_px_sq_foot_gross_rent.png)
+![image](https://user-images.githubusercontent.com/104800728/202768424-ced4dc75-a502-44a1-85b3-f0d1ef4104f7.png)
 
 6. Use both the prices_square_foot_by_year DataFrame and interactive plots to answer the following questions:
 
@@ -101,7 +100,7 @@ For this part of the assignment, use interactive visualizations and widgets to e
 
 5. Note that your resulting plot should appear similar to the following image:
 
-![alt text](6_4_pricing_info_by_neighborhood.png)
+![image](https://user-images.githubusercontent.com/104800728/202768479-7d2ebd42-6d3e-47d0-88c9-63207b7a9c8e.png)
 
 6. Use the interactive visualization to answer the following question:
 
@@ -131,7 +130,7 @@ For this part of the assignment, explore the geospatial relationships in the dat
 
 Note that your resulting plot should appear similar to the following image:
 
-![alt text](6_4_geoviews_plot.png)
+![image](https://user-images.githubusercontent.com/104800728/202768538-41aa63c5-089a-45e3-8ec2-5bc3a975cc20.png)
 
 5. Use the interactive map to answer the following question:
 
